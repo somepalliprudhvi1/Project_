@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raj.Somepall\\Documents\\Personal\\Project\\iPortfolio\\iPortfolio\\iPortfolio\\iPortfolio.csproj": {}
+    "C:\\Users\\manoj\\Documents\\Applications\\iPortfolio\\iPortfolio\\iPortfolio\\iPortfolio\\iPortfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raj.Somepall\\Documents\\Personal\\Project\\iPortfolio\\iPortfolio\\iPortfolio\\iPortfolio.csproj": {
+    "C:\\Users\\manoj\\Documents\\Applications\\iPortfolio\\iPortfolio\\iPortfolio\\iPortfolio\\iPortfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raj.Somepall\\Documents\\Personal\\Project\\iPortfolio\\iPortfolio\\iPortfolio\\iPortfolio.csproj",
+        "projectUniqueName": "C:\\Users\\manoj\\Documents\\Applications\\iPortfolio\\iPortfolio\\iPortfolio\\iPortfolio\\iPortfolio.csproj",
         "projectName": "iPortfolio",
-        "projectPath": "C:\\Users\\Raj.Somepall\\Documents\\Personal\\Project\\iPortfolio\\iPortfolio\\iPortfolio\\iPortfolio.csproj",
-        "packagesPath": "C:\\Users\\Raj.Somepall\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raj.Somepall\\Documents\\Personal\\Project\\iPortfolio\\iPortfolio\\iPortfolio\\obj\\",
+        "projectPath": "C:\\Users\\manoj\\Documents\\Applications\\iPortfolio\\iPortfolio\\iPortfolio\\iPortfolio\\iPortfolio.csproj",
+        "packagesPath": "C:\\Users\\manoj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manoj\\Documents\\Applications\\iPortfolio\\iPortfolio\\iPortfolio\\iPortfolio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Raj.Somepall\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\manoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
